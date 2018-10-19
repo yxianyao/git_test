@@ -1,3 +1,4 @@
-* whitespace=!indent,trail,space
-*.[ch] whitespace=indent,trail,space diff=cpp
-*.sh whitespace=indent,trail,space
+*.js linguist-language=html 
+*.css linguist-language=html
+*.html linguist-language=html  
+*.java linguist-language=html 
