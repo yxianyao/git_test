@@ -1,5 +1,5 @@
 <code>*.js linguist-language=html 
-*.css linguist-language=html
-*.html linguist-language=html  
+*.text linguist-language=html
+*.pdf linguist-language=html  
 *.java linguist-language=html 
 </code>
